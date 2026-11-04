@@ -1,4 +1,5 @@
 PORTOFOLIO ANDREDO.DEV
+https://fadhilandredo.github.io/Portofolio/
 
 FOTO PENGALAMAN
 Placeholder otomatis berganti dengan foto ketika file tersedia.
